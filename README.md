@@ -1,4 +1,5 @@
-# Machine-Learning-for-Finance
+# Bayesian Framework for Gaussian Process Variable Selection 
+Machine-Learning-for-Finance <br/>
 Term 3 Module during MSc Data Science
 
 
